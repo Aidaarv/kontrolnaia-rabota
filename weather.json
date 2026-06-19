@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-06-19",
+    "temperature": 20.0,
+    "description": "солнечно"
+  },
+  {
+    "date": "2026-06-19",
+    "temperature": 30.0,
+    "description": "солнечно"
+  },
+  {
+    "date": "2026-06-19",
+    "temperature": 30.0,
+    "description": "пасмурно"
+  },
+  {
+    "date": "2026-06-19",
+    "temperature": 15.0,
+    "description": "холодно"
+  }
+
+]
